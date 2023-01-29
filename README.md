@@ -1,7 +1,7 @@
 # Hi there, I'm Vladislav Bykanov
 ## Welcome to my GitHub profile 👋 
 
-### I'm a Boyfriend, Dog owner, Short Track Speed Skater and an aspiring Full Stack Developer.
+### I'm a an aspiring Full Stack Developer.
 
 ### Connect with me:
 
