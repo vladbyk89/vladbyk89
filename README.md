@@ -1,7 +1,14 @@
 # Hi there, I'm Vladislav Bykanov 👋
 
 ## About Me
-I'm an aspiring Full Stack Developer passionate about building web applications and learning new technologies.
+I'm a Full Stack Developer with 2 years of experience specializing in startup environments. Currently building innovative solutions at a local startup, I thrive in fast-paced, dynamic settings where I can wear multiple hats and contribute across the entire tech stack.
+
+🚀 **Quick Facts**:
+- Full Stack Developer passionate about creating efficient, scalable solutions
+- Experience exclusively with startups, helping build products from the ground up
+- Strong focus on modern web technologies and cloud-native development
+- Always excited to learn and adapt to new technologies and challenges
+- Advocate for clean code and best practices
 
 ## Connect with Me
 [<img align="left" alt="Instagram" width="30px" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-instagram-1.png" />][instagram]
@@ -17,6 +24,7 @@ I'm an aspiring Full Stack Developer passionate about building web applications 
   <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
   <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
   <img alt="Sass" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
   <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
   <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
   <img alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
