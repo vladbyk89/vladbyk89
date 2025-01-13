@@ -51,7 +51,7 @@ I'm a Full Stack Developer with 2 years of experience specializing in startup en
 ### Testing Frameworks
 <div>
   <img alt="Vitest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" style="padding-right:10px;" />
-  <img alt="Jasmine" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" style="padding-right:10px;" />
+  <img alt="Jasmine" width="40px" src="https://raw.githubusercontent.com/jasmine/jasmine/main/images/jasmine-horizontal.svg" style="padding-right:10px;" />
   <img alt="Karma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" style="padding-right:10px;" />
 
 [instagram]: https://instagram.com/vladb89
