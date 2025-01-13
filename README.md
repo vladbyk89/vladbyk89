@@ -36,6 +36,7 @@ I'm a Full Stack Developer with 2 years of experience specializing in startup en
 <div>
   <img alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
   <img alt=".NET" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="padding-right:10px;" />
+  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
   <img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 </div>
 
@@ -46,6 +47,12 @@ I'm a Full Stack Developer with 2 years of experience specializing in startup en
   <img alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
   <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
 </div>
+
+### Testing Frameworks
+<div>
+  <img alt="Vitest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" style="padding-right:10px;" />
+  <img alt="Jasmine" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" style="padding-right:10px;" />
+  <img alt="Karma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" style="padding-right:10px;" />
 
 [instagram]: https://instagram.com/vladb89
 [linkedin]: https://linkedin.com/in/vladislav-bykanov-oly-9338b4100
